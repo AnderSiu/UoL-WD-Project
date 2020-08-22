@@ -4,7 +4,7 @@
       "name" : "Network",
       "defactobrand" : "Cisco",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+      "photo" : "images/brandicon/cisco.png"
     },
     {
       "name" : "Virtualization",
