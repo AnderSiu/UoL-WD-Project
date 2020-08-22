@@ -2,50 +2,50 @@
   "certs": [
     {
       "name" : "Network",
-      "defactobrand" : "Cat",
+      "defactobrand" : "Cisco",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "birthYear" : 2016,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "defactobrand" : "VMware",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
-      "defactobrand" : "Dog",
+      "defactobrand" : "F5 Networks",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
-      "defactobrand" : "Dog",
+      "defactobrand" : "(ISC)²",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
-    },
-    {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
-    },
-    {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "name" : "DevOps",
+      "defactobrand" : "CNCF",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
-      "defactobrand" : "Cat",
+      "defactobrand" : "AWS",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Project management",
+      "defactobrand" : "PMI (PMP)",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "IT service management",
+      "defactobrand" : "AXELOS (ITIL)",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       "birthYear" : 2012,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
