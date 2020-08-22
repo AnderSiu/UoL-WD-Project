@@ -2,53 +2,57 @@
   "certs": [
     {
       "name" : "Network",
-      "defactobrand" : "Cat",
+      "defactobrand" : "Cisco",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "birthYear" : 2016,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "defactobrand" : "VMware",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "defactobrand" : "F5 Networks",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "defactobrand" : "(ISC)² ",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "name" : "Storage and Data",
+      "defactobrand" : "NetApp",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "name" : "Database",
+      "defactobrand" : "Oracle",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Virtualization",
-      "defactobrand" : "Dog",
-      "birthYear" : 2008,
+      "name" : "DevOps",
+      "defactobrand" : "CNCF",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
-      "defactobrand" : "Cat",
+      "defactobrand" : "AWS",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
-      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    },
+    {
+      "name" : "IT service management",
+      "defactobrand" : "ITIL (by AXELOS)",
+      "suggestedCerts" : ["tuna", "catnip", "celery"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
+    {
+      "name" : "Project management",
+      "defactobrand" : "PMP (by PMI)",
+      "suggestedCerts" : ["tuna", "catnip", "celery"],
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    },
   ]
 }
