@@ -4,50 +4,42 @@
       "name" : "Network",
       "defactobrand" : "Cisco",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "birthYear" : 2016,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
       "name" : "Virtualization",
       "defactobrand" : "VMware",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
       "defactobrand" : "F5 Networks",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
       "defactobrand" : "(ISC)²",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "DevOps",
       "defactobrand" : "CNCF",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
       "defactobrand" : "AWS",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Project management",
       "defactobrand" : "PMI (PMP)",
-      "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "IT service management",
       "defactobrand" : "AXELOS (ITIL)",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
-      "birthYear" : 2012,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
   ]
