@@ -48,12 +48,12 @@
       "defactobrand" : "ITIL (by AXELOS)",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
-    }
+    },
     {
       "name" : "Project management",
       "defactobrand" : "PMP (by PMI)",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
-    },
+    }
   ]
 }
