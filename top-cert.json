@@ -3,7 +3,7 @@
     {
       "name" : "Network",
       "defactobrand" : "Cisco",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["Cisco Certified Network Associate", "Cisco Certified Network Professional", "Cisco Certified Internetwork Expert"],
       "photo" : "images/brandicon/cisco.png"
     },
     {
