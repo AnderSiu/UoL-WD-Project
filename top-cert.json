@@ -10,43 +10,43 @@
       "name" : "Virtualization",
       "defactobrand" : "VMware",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/vmware.jpg"
     },
     {
       "name" : "Application Delivery",
       "defactobrand" : "F5 Networks",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/f5.png"
     },
     {
       "name" : "Information Security",
       "defactobrand" : "(ISC)²",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/isc2.png"
     },
     {
       "name" : "DevOps",
       "defactobrand" : "CNCF",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/cncf.png"
     },
     {
       "name" : "Cloud",
       "defactobrand" : "AWS",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/aws.png"
     },
     {
       "name" : "Project management",
-      "defactobrand" : "PMI (PMP)",
+      "defactobrand" : "PMI",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "images/brandicon/pmi.png"
     },
     {
       "name" : "IT service management",
-      "defactobrand" : "AXELOS (ITIL)",
+      "defactobrand" : "AXELOS",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "photo" : "images/brandicon/axelos.png"
     }
   ]
 }
