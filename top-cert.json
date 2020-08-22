@@ -9,31 +9,37 @@
     {
       "name" : "Virtualization",
       "defactobrand" : "VMware",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
       "defactobrand" : "F5 Networks",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
       "defactobrand" : "(ISC)²",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "DevOps",
       "defactobrand" : "CNCF",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
       "defactobrand" : "AWS",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Project management",
       "defactobrand" : "PMI (PMP)",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
