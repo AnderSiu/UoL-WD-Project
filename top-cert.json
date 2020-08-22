@@ -2,23 +2,40 @@
   "certs": [
     {
       "name" : "Network",
+<<<<<<< HEAD
       "defactobrand" : "Cisco",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       // "suggestedCerts" : ["Cisco Certified Network Associate (CCNA)", "Cisco Certified Network Professional (CCNP)", "Cisco Certified Internetwork Expert"],
+=======
+      "species" : "Cat",
+      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "birthYear" : 2016,
+>>>>>>> parent of ddbdb03... Update top-cert.json
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
       "name" : "Virtualization",
+<<<<<<< HEAD
       "defactobrand" : "VMware",
+=======
+      "species" : "Dog",
+      "birthYear" : 2008,
+>>>>>>> parent of ddbdb03... Update top-cert.json
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
+<<<<<<< HEAD
       "defactobrand" : "F5 Networks",
+=======
+      "species" : "Dog",
+      "birthYear" : 2008,
+>>>>>>> parent of ddbdb03... Update top-cert.json
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
+<<<<<<< HEAD
       "defactobrand" : "(ISC)² ",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
@@ -35,10 +52,33 @@
     {
       "name" : "DevOps",
       "defactobrand" : "CNCF",
+=======
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Virtualization",
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Virtualization",
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Virtualization",
+      "species" : "Dog",
+      "birthYear" : 2008,
+>>>>>>> parent of ddbdb03... Update top-cert.json
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
+<<<<<<< HEAD
       "defactobrand" : "AWS",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
@@ -52,6 +92,9 @@
     {
       "name" : "Project management",
       "defactobrand" : "PMP (by PMI)",
+=======
+      "species" : "Cat",
+>>>>>>> parent of ddbdb03... Update top-cert.json
       "suggestedCerts" : ["tuna", "catnip", "celery"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
