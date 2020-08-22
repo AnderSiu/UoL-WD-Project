@@ -2,52 +2,51 @@
   "certs": [
     {
       "name" : "Network",
-      "defactobrand" : "Cat",
+      "species" : "Cat",
       "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
       "birthYear" : 2016,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Application Delivery",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Information Security",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Virtualization",
-      "defactobrand" : "Dog",
+      "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
       "name" : "Cloud",
-      "defactobrand" : "Cat",
+      "species" : "Cat",
       "suggestedCerts" : ["tuna", "catnip", "celery"],
-      "birthYear" : 2012,
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
   ]
