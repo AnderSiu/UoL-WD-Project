@@ -3,7 +3,7 @@
     {
       "name" : "Network",
       "defactobrand" : "Cisco",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["Cisco Certified Network Associate (CCNA)", "Cisco Certified Network Professional (CCNP)", "Cisco Certified Internetwork Expert"],
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
