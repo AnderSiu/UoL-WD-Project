@@ -9,43 +9,43 @@
     {
       "name" : "Virtualization",
       "defactobrand" : "VMware",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["VMware Certified Professional - Data Center Virtualization 2020", "VMware Certified Professional - Network Virtualization 2020", "VMware Certified Professional - Data Center Virtualization 2020", "VMware Certified Advanced Professional - Data Center Virtualization Deploy 2020"],
       "photo" : "images/brandicon/vmware.jpg"
     },
     {
       "name" : "Application Delivery",
       "defactobrand" : "F5 Networks",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["F5 Certified BIG-IP Administrator", "F5 Certified Technology Specialist in LTM", "F5 Certified Technology Specialist in GTM"],
       "photo" : "images/brandicon/f5.png"
     },
     {
       "name" : "Information Security",
       "defactobrand" : "(ISC)²",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["System Security Sertified Professional", "Certified Information Systems Security Professional", "Certified Cloud Security Professional"],
       "photo" : "images/brandicon/isc2.png"
     },
     {
       "name" : "DevOps",
       "defactobrand" : "CNCF",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["Certified kubernetes Administrator", "Certified kubernetes Application Developer"],
       "photo" : "images/brandicon/cncf.png"
     },
     {
       "name" : "Cloud",
       "defactobrand" : "AWS",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["AWS Certified Cloud Practitioner", "AWS Certified Solutions Architect – Associate ", "AWS Certified Solutions Architect – Professional"],
       "photo" : "images/brandicon/aws.png"
     },
     {
       "name" : "Project management",
       "defactobrand" : "PMI",
-      "suggestedCerts" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "suggestedCerts" : ["Project Management Professional (PMP)"],
       "photo" : "images/brandicon/pmi.png"
     },
     {
       "name" : "IT service management",
       "defactobrand" : "AXELOS",
-      "suggestedCerts" : ["tuna", "catnip", "celery"],
+      "suggestedCerts" : ["ITIL 4 Foundation ", "ITIL 4 Managing Professional", "ITIL 4 Strategic Leader"],
       "photo" : "images/brandicon/axelos.png"
     }
   ]
